@@ -1,0 +1,109 @@
+#About-bg{
+    width: 100%;
+    height: 100%;
+    background-color: #f5f5f5;
+    padding: 100px 100px;
+}
+.Tilte-text {
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Para-text {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Card-img-box {
+    width: 100%;
+    height: 70%;
+}
+
+.Card-img-fit {
+    width: 100%;
+    height: 100%;
+}
+
+
+.Center-Img{
+    width: 100%;
+    height: 50vh;
+
+}
+.About-column-bg{
+    background-color: #f9f9f9;
+      width: 100%;
+    height: 50vh;
+    padding: 100px 90px;
+}
+.Center-Img-fit{
+    width: 100%;
+    height: 100%;
+}
+.CardText{
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+.horizontel{
+    width: 70px;
+    border-color: black;
+    margin-top: -15px;
+    border: 1px solid black;
+}
+.item-title-text{
+    font-size: 1.4rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 10px;
+}
+.Black-img-section{
+    width: 100%;
+    height: 100vh;
+}
+.Black-img-section-fit{
+    width: 100%;
+    height: 100%;
+}
+.Fcolumn{
+    width: 100%;
+    height: 50vh;
+}
+.Fcolumn2{
+    width: 100%;
+    height: 100%;
+}
+.award-bg-color{
+    width: 100%;
+    height: 50vh;
+    background-color: rgba(223, 166, 166, 0.192);
+    margin-top: -330px;
+}
+.award-text-section{
+    padding: 100px 90px;
+}
+.Award-img-box{
+    width: 100%;
+    height: 50vh;
+}
+.Award-img-fit{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 480px) {
+    .award-bg-color{
+        width: 100%;
+        height: 50vh;
+        background-color: rgba(223, 166, 166, 0.192);
+        margin-top: 100px;
+    } 
+    
+  }

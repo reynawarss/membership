@@ -1,0 +1,31 @@
+.service-data{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.service-para{
+    text-align: center;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.service-lastpara{
+    text-align: center;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.Service-padding{
+    padding: 40px 40px;
+}
+.service-title{
+    text-align: center;
+    font-size: 1.4rem;
+    margin-top: -50px;
+    margin-left: 10px;
+}
+.service-item-para{
+   
+    font-size: 12px;
+ text-align:left;
+    margin-left: 20px; 
+}

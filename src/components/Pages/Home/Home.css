@@ -1,0 +1,45 @@
+.home-container{
+    width: 100%;
+    height: 100%;
+    background-color: #F2F2F2;
+}
+.home-container-img{
+width: 100%;
+height: 100%;
+}
+.membership{
+    font-size: 4rem;
+    font-family: serif;
+    padding-top: 80px;
+    margin-left: 40px;
+}
+.get{
+    font-size: 1rem;
+    font-family: serif;
+    margin-left: 40px;
+
+}
+.start-now-btn{
+    width: 40%;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 40px;
+
+}
+.Banner-img{
+    width: 100%;
+    height: 100%;
+}
+.Banner-img-fill{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+

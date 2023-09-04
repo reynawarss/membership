@@ -1,0 +1,41 @@
+.Service-Touch-img{
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+}
+.Service{
+    width: 100%;
+    height: 100%;
+    opacity: 20%;
+}
+.serviceText{
+    text-align: center;
+    font-size: 2.4rem;
+    font-family: serif;
+    margin-top: -300px;
+    color: white;
+}
+.serviceText2{
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: serif;
+    color: white;
+}
+.serviceText3{
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: serif;
+    color: #C89D28;
+}
+.drop-btn{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border: none;
+}
+.drop-btn:hover{
+    background-color: #C89D28 !important;
+    color: white;
+}

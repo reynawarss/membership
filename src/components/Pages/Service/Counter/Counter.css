@@ -1,0 +1,38 @@
+.Background-img-box {
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    padding: 50px 0;
+}
+
+
+
+.facts{
+    font-size: 3rem;
+    font-family: serif;
+    /* padding: 100px 0; */
+    margin-top: 100px !important;
+    color: white;
+    text-align: center;
+}
+
+.facts-last-text {
+    text-align: center;
+    font-size: 1.4rem;
+    color: white !important;
+    margin-top: 20px;
+ 
+}
+.Counter-Nob{
+    font-size: 4rem;
+    font-family: serif;
+    color: #C89D28;
+}
+.Counter-Name{
+    font-size: 1rem;
+    font-family: serif;
+    color: white;
+}
